@@ -57,12 +57,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+
 -Ik heb met een low contrast bril gekeken, die zorgde ervoor dat ik minder contrasten kon zien, opzicht de basis dingen zijn wel netjes (grove structuur), soms zijn de filmpjes of plaatjes op de gekleurde vakken wel erg slecht te zien. Ook veel lichte plaatjes van bijvoorbeeld de witte playstation op de witte achtergrond waren heel erg slecht te zien, ook de plaatjes op het blauw/paarsige vlak op de homepage. 
 -Ik heb ook met een blur bril gekeken en het was nogsteeds wel ok te zien, tekst was niet echt heel erg leesbaar meer maar je zou wel eventueel het lettertypen kunnen vergroten. 
 -Ik heb met de gele bril ook nog gekeken en toen was alles nog best goed te zien. 
 -Ook heb ik geprobeerd om met elastiekjes een verslechterde motoriek na te bootsen, de website was redelijk goed nog te gebruiken, de buttons zijn wel wat moeilijker te gebruiken (vooral de kleinere buttons), maar voor de rest is het prima te doen. 
 
 Screenreader homepage & PS5 page
+
 Nadat ik de screenreader heb aangezet, ben ik begonnen met het testen van de navigatiebalk, deze deed het opzich prima, alleen bij de pijltjes omlaag per punt in de navigatie werd niks gezegd, ook bij de blauwe balk met #ITHAPPENSONPS5 werkte het niet helemaal lekker. Het werkte ook niet helemaal lekker bij de video carousel. Bij nieuwe releases op de homepagina doen de titels van de games erg raar, ook omdat ze in capslock zijn geschreven, random vakjes met tekst als je met tab of pijltjes navigeert naar onderen naar volgende stukje. Niet alle carousels zijn even goed, soms wordt alleen maar verteld wat voor tekst het is, niet wat er bijvoorbeeld op het plaatje staat. de balk waarin je van afbeelding/video kan wisselen is wel op de home en ps5 pagina goed. Soms wordt alleen verteld dat het een koppeling is (bij sommige random buttons), niet waar het naar toe leidt. Bij de ps5 page wordt bij sommige plaatjes wel goed met alt tekst omschreven wat er op de afbeelding staat. (sommige games en maar vooral andere afbeeldingen die console/controllers of accessoires bevatten). 
 </details>
 
