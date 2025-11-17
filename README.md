@@ -57,6 +57,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  -Ik heb met een low contrast bril gekeken, die zorgde ervoor dat ik minder contrasten kon zien, opzicht de basis dingen zijn wel netjes, soms zijn de filmpjes of plaatjes op de gekleurde vakken wel slecht te zien. Ook veel lichte plaatjes van bijvoorbeeld de witte playstation op de witte achtergrond waren heel erg slecht te zien, maar dat is het soms ook wel zonder uberhaupt de bril. 
+  -Ik heb ook met een blur bril gekeken en het was nogsteeds wel ok te zien, tekst was niet echt heel erg leesbaar meer maar je zou wel eventueel het lettertypen kunnen vergroten. 
+  -Ik heb met de gele bril ook nog gekeken en toen was alles nog goed te zien. 
+  -Ook heb ik geprobeerd om met elastiekjes een verslechterde motoriek na te bootsen, de website was redelijk goed nog te gebruiken, de buttons zijn wel wat moeilijker te gebruiken, maar voor de rest is het prima te doen. 
 </details>
 
 
